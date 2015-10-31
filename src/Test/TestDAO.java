@@ -19,6 +19,8 @@ public class TestDAO {
 		//System.out.println(Dao.BorrarContacto());
 		//System.out.println(Dao.selectApellido());
 		System.out.println(Dao.selectNombre());
+		
+		System.out.println("");
 	}
 
 }
